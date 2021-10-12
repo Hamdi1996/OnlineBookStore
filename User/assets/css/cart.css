@@ -1,0 +1,55 @@
+.fa-user-o,
+.fa-shopping-cart {
+    font-size: 20px;
+    padding: 4px
+}
+
+.form-group {
+    margin-bottom: 5px
+}
+
+label {
+    padding-left: 10px
+}
+
+.form-group:last-child {
+    margin-bottom: 0
+}
+
+h6 {
+    margin-bottom: 0px
+}
+
+
+.btn {
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: #fff
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: orange
+}
+
+.card-body {
+    padding: 8px
+}
+
+.sign {
+    width: 25px;
+    height: 25px
+}
+
+.discount {
+    border: 1px solid orange;
+    border-radius: 5px;
+    width: 65px;
+    position: absolute;
+    top: 2%
+}
+
+
+
+
+
